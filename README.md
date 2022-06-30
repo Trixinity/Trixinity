@@ -5,7 +5,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 - 💻 I’m currently searching for a junior developer job. 
 - 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a bachelor Computer Science and Engineering.
 - 😄 Pronouns: No preference but officially he/him.
-- ⚡ Fun fact: I like Formula one and competitive shooters a lot. Also streetwear and cars.
+- ⚡ Fun fact: I like Formula One and competitive shooters a lot. Also streetwear and cars.
 
 #### 💬 Programming languages I know
 
@@ -31,10 +31,10 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 <!----------------- LINKS --------------->
 
 [`assembly`]: https://en.wikipedia.org/wiki/Assembly_language
-['numpy']: https://numpy.org/w
-['matplotlib']: https://matplotlib.org/https://matplotlib.org/
+['numpy']: https://numpy.org/
+['matplotlib']: https://matplotlib.org/
 ['seaborn']: https://seaborn.pydata.org/
-[`smt-lib`]: https://golang.org/
+[`smt-lib`]: https://smtlib.cs.uiowa.edu/
 [`rust`]: https://www.rust-lang.org/
 [`react`]: https://reactjs.org/
 [`python`]: https://www.python.org/
