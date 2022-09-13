@@ -3,7 +3,7 @@
 I am Trix Vernancy, a creative, quick-learning new developer.
 
 - 💻 I’m currently searching for a junior developer job. 
-- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a bachelor Computer Science and Engineering.
+- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a bachelor Data Science.
 - 😄 Pronouns: No preference but officially he/him.
 - ⚡ Fun fact: I like Formula One and competitive shooters a lot. Also streetwear and cars.
 
