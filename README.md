@@ -3,7 +3,7 @@
 I am Trix Vernancy, a creative, quick-learning new developer.
 
 - 💻 Calculus and Linear Algebra tutor.
-- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a bachelor Data Science.
+- 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a bachelor Computer Science and Engineering.
 - 😄 Pronouns: No preference but officially he/him.
 - ⚡ Fun fact: I like Formula One and competitive shooters a lot. Also streetwear and cars.
 
@@ -12,7 +12,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 - [`Java`]: Java is my favourite language and the one I use most often for my own projects.
 - [`SMT-Lib`]: This is not really a programming language but it is really useful for satisfiability modulo theories
 - [`Assembly`]: Not my favourite language but I studied ARM Assembly and PP2 Assembly
-- [`Python`]: Python was my first language and I worked with ['Numpy'], ['Pandas'], ['Matplotlib'] and ['Seaborn'] for Computer Science and Engineering
+- [`Python`]: Python was my first language and I worked with ['Numpy'], ['Pandas'], ['Matplotlib'] and ['Seaborn']
 - others: I am currently learning ['Typescript'] and ['Rust']
 
 #### 📫 How to reach me
