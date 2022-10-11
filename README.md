@@ -12,7 +12,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 - [`Java`]: Java is my favourite language and the one I use most often for my own projects.
 - [`SMT-Lib`]: This is not really a programming language but it is really useful for satisfiability modulo theories
 - [`Assembly`]: Not my favourite language but I studied ARM Assembly and PP2 Assembly
-- [`Python`]: Python was my first language and I worked with ['Numpy'], ['Pandas'], ['Matplotlib'] and ['Seaborn'] for Data Analytics
+- [`Python`]: Python was my first language and I worked with ['Numpy'], ['Pandas'], ['Matplotlib'] and ['Seaborn'] for Computer Science and Engineering
 - others: I am currently learning ['Typescript'] and ['Rust']
 
 #### 📫 How to reach me
