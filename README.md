@@ -26,7 +26,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 
 I tend to stick with a few projects till they are done, see the ones I am currently working on here:
 
-- Artistdash - a new artist dashboard for drawing freelancers. Queue management, WIP review and many more
+- [`Artisea`] - a new artist dashboard for drawing freelancers. Queue management, WIP review and many more
 
 <!----------------- LINKS --------------->
 
@@ -44,3 +44,4 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 ['typescript']: https://www.typescriptlang.org/
 ['rust']: https://www.rust-lang.org/
 ['pandas']: https://pandas.pydata.org/
+[`artisea`]: https://github.com/Artisea-net
