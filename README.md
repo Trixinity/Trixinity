@@ -19,7 +19,6 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 
 - ![discord](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-discord.png) Trixinity#0164
 - ![telegram](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-telegram.png) Trixinity
-- ![twitter](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-twitter.png) Trixytrii
 - 📧 miss.vernancy@outlook.com
 
 #### 🔭 Projects I work on
@@ -27,6 +26,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 I tend to stick with a few projects till they are done, see the ones I am currently working on here:
 
 - [`Artisea`] - a new artist dashboard for drawing freelancers. Queue management, WIP review and many more
+- [`TR1-X13`] - a discord moderation bot for my personal Dutch discord server
 
 <!----------------- LINKS --------------->
 
@@ -45,3 +45,4 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 ['rust']: https://www.rust-lang.org/
 ['pandas']: https://pandas.pydata.org/
 [`artisea`]: https://github.com/Artisea-net
+[`tr1-x13`]: https://github.com/Trixinity/DeLageVachtjes
