@@ -2,7 +2,7 @@
 
 I am Trix Vernancy, a creative, quick-learning new developer.
 
-- 💻 Calculus and Linear Algebra tutor.
+- 💻 Nothing at the moment, currently volunteering for a non-profit organisation.
 - 🌱 I’m currently studying at the [`Eindhoven University of Technology`] for a bachelor Computer Science and Engineering.
 - 😄 Pronouns: No preference but officially he/him.
 - ⚡ Fun fact: I like Formula One and competitive shooters a lot. Also streetwear and cars.
@@ -17,8 +17,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 
 #### 📫 How to reach me
 
-- ![discord](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-discord.png) Trixinity#0164
-- ![telegram](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-telegram.png) Trixinity
+- ![discord](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-discord.png) trixinity
 - 📧 miss.vernancy@outlook.com
 
 #### 🔭 Projects I work on
