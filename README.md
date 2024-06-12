@@ -49,6 +49,6 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 [`tr1-x13`]: https://github.com/Trixinity/DeLageVachtjes
 ['dash']: https://dash.plotly.com/
 [`V8N8 Events`]: https://www.v8n8events.com/
-[`react`]: https://react.dev/
-[`next.js`]: https://nextjs.org/
+['react']: https://react.dev/
+['next.js']: https://nextjs.org/
 [`Postgresql`]: https://www.postgresql.org/
