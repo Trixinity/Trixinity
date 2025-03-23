@@ -10,7 +10,7 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 #### 💬 Programming languages I know
 
 - [`Java`]: Java is my favourite language and the one I use most often for projects.
-- [`Typescript`]: Self-taught programming language for web development with the ['Vue'] framework.
+- [`Typescript`]: Self-taught programming language for web development with the ['Nuxt'] framework.
 - [`Postgresql`]: Used for queries of Big Data and specialised in query optimisation.
 - [`Python`]: Python was my first language for data visualisations and machine learning classifiers.
 - wants to learn: ['Rust'].
