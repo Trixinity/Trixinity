@@ -10,10 +10,9 @@ I am Trix Vernancy, a creative, quick-learning new developer.
 #### 💬 Programming languages I know
 
 - [`Java`]: Java is my favourite language and the one I use most often for projects.
-- [`Typescript`]: Self-taught programming language for web development. I mostly use ['React'] and ['Next.js'].
+- [`Typescript`]: Self-taught programming language for web development with the ['Vue'] framework.
 - [`Postgresql`]: Used for queries of Big Data and specialised in query optimisation.
-- [`Python`]: Python was my first language and I worked with ['Numpy'], ['Pandas'], ['Matplotlib'], ['Seaborn'] and ['Dash'] for data visualisations, data fitting and linear regression models. 
-- had a hands-on: ['R'] and ['Arm Assembly'].
+- [`Python`]: Python was my first language for data visualisations and machine learning classifiers.
 - wants to learn: ['Rust'].
 
 #### 📫 How to reach me
@@ -31,24 +30,15 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 
 <!----------------- LINKS --------------->
 
-['arm assembly']: https://en.wikipedia.org/wiki/Assembly_language
-['numpy']: https://numpy.org/
-['matplotlib']: https://matplotlib.org/
-['seaborn']: https://seaborn.pydata.org/
-['r']: https://www.r-project.org/
 [`rust`]: https://www.rust-lang.org/
-[`react`]: https://reactjs.org/
 [`python`]: https://www.python.org/
 [`java`]: https://www.oracle.com/java/
 [`Eindhoven University of Technology`]: https://www.tue.nl/en/
 [`discord`]: https://discord.com/
 [`typescript`]: https://www.typescriptlang.org/
 ['rust']: https://www.rust-lang.org/
-['pandas']: https://pandas.pydata.org/
 [`artisea`]: https://github.com/Artisea-net
 [`tr1-x13`]: https://github.com/Trixinity/DeLageVachtjes
-['dash']: https://dash.plotly.com/
 [`V8N8 Events`]: https://www.v8n8events.com/
-['react']: https://react.dev/
-['next.js']: https://nextjs.org/
 [`Postgresql`]: https://www.postgresql.org/
+[`Nuxt`]: https://nuxt.com/
