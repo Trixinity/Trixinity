@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Trix, a creative, quick-learning new developer.
+I am Bill, a creative, quick-learning new developer.
 
-- 💻 Looking at the moment, I am currently volunteering for a non-profit organisation.
+- 💻 Looking at the moment, I am currently volunteering for my events organisation.
 - 🌱 I’m currently studying at the [`Delft University of Technology`] for a Master's in Computer Science.
 - 😄 Pronouns: No preference, but officially he/him.
 
@@ -12,11 +12,12 @@ I am Trix, a creative, quick-learning new developer.
 - [`Postgresql`]: Used for queries of Big Data and specialised in query optimisation.
 - [`Python`]: Python was my first language for data analysis, machine learning, and deep learning.
 - [`Java`]: Java is my favourite OOP language and I learnt it at [`Eindhoven University of Technology`] for my Computer Science Bachelor.
+- [`Rust`]: I am learning Rust at the moment with the [`Actix Web`] framework to create API endpoints.
 
 #### 📫 How to reach me
 
 - ![discord](https://raw.githubusercontent.com/Trixinity/Trixinity/master/logo-discord.png) trixinity
-- 📧 miss.vernancy@outlook.com
+- 📧 dhr.vi@outlook.com
 
 #### 🔭 Projects I work on
 
@@ -24,7 +25,7 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 
 - [`Artisea`] - a new artist dashboard for drawing freelancers. Queue management, WIP review, and much more.
 - [`TR1-X13-V2`] - a Discord LLM bot which can chat with users and keep track of user engagement in a guild, integrating a [`Postgresql`] database.
-- [`V8N8 Events`] - a website for an event organising organisation.
+- [`V8N8 Events`] - the website for my events organisation.
 
 <!----------------- LINKS --------------->
 
@@ -38,7 +39,8 @@ I tend to stick with a few projects till they are done, see the ones I am curren
 ['rust']: https://www.rust-lang.org/
 [`artisea`]: https://github.com/Artisea-net
 [`tr1-x13-v2`]: https://github.com/Trixinity/TR1X1E-V2
-[`V8N8 Events`]: https://www.v8n8events.com/
+[`V8N8 Events`]: https://v8n8events.com/
 [`Postgresql`]: https://www.postgresql.org/
 [`Nuxt`]: https://nuxt.com/
 [`Nextjs`]: https://nextjs.org/
+[`Actix Web`]: https://actix.rs/
