@@ -23,7 +23,6 @@ I am Bill, a creative, quick-learning new developer.
 
 I tend to stick with a few projects till they are done, see the ones I am currently working on here:
 
-- [`Artisea`] - a new artist dashboard for drawing freelancers. Queue management, WIP review, and much more.
 - [`TR1-X13-V2`] - a Discord LLM bot which can chat with users and keep track of user engagement in a guild, integrating a [`Postgresql`] database.
 - [`V8N8 Events`] - the website for my events organisation.
 
